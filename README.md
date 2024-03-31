@@ -27,13 +27,13 @@ This application demonstrates basic CRUD operations on a MongoDB database using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mern-crud.git
+   git clone https://github.com/codewithcraze/CrudInMern.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd mern-crud
+   cd CrudInMern
    ```
 
 3. Install dependencies for both the server and client:
